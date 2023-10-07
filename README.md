@@ -17,3 +17,7 @@ that all the days are used and need to find the min load division that uses all 
 Given an array of integers nums, sort the array in ascending order and return it.
 You must solve the problem without using any built-in functions in O(nlog(n)) time complexity and with the smallest space complexity possible.
 The main challenge was to solve this problem with O(nlog(n)) time complexity, so I used Merge sort algo. 
+
+# Day 5
+Given the array nums after the possible rotation and an integer target, return the index of target if it is in nums, or -1 if it is not in nums.
+You must write an algorithm with O(log n) runtime complexity.
