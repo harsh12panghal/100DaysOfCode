@@ -21,3 +21,6 @@ The main challenge was to solve this problem with O(nlog(n)) time complexity, so
 # Day 5
 Given the array nums after the possible rotation and an integer target, return the index of target if it is in nums, or -1 if it is not in nums.
 You must write an algorithm with O(log n) runtime complexity.
+
+# Day 6
+Given the sorted rotated array nums of unique elements, return the minimum element of this array.
