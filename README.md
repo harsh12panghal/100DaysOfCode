@@ -24,3 +24,6 @@ You must write an algorithm with O(log n) runtime complexity.
 
 # Day 6
 Given the sorted rotated array nums of unique elements, return the minimum element of this array.
+
+# Day 7
+Given a positive integer num, return true if num is a perfect square or false otherwise.
