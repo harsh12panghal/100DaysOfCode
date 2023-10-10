@@ -27,3 +27,6 @@ Given the sorted rotated array nums of unique elements, return the minimum eleme
 
 # Day 7
 Given a positive integer num, return true if num is a perfect square or false otherwise.
+
+# Day 8
+Merge nums1 and nums2 into a single array sorted in non-decreasing order.
