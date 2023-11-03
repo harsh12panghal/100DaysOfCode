@@ -10,6 +10,7 @@ Given an integer n, return the number of prime numbers that are strictly less th
 
 class Solution {
 public:
+
     int countPrimes(int n) {
         vector<bool> prime(n+1, true);
         prime[0], prime[1] = false;
@@ -23,6 +24,7 @@ public:
                 }
             }
         }
+        
         return cnt;
     }
 };
