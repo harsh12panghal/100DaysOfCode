@@ -1,4 +1,3 @@
-
 /*
 38. Count and Say
 
@@ -10,9 +9,8 @@ To determine how you "say" a digit string, split it into the minimal number of s
 one unique digit. Then for each substring, say the number of digits, then say the digit. Finally, concatenate every said digit.
 
 For example, the saying and conversion for digit string "3322251":
-
-
 */
+
 
 class Solution {
 public:
