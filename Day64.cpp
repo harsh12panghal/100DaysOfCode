@@ -6,6 +6,9 @@ Given an array of integers heights representing the histogram's bar height where
 
  
 
+
+
+
 Example 1:
 
 
